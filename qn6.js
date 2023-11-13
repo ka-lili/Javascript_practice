@@ -1,7 +1,7 @@
 // Create a function that recieves an array and returns the greatest value inside that array
 
 function findMaxValue(arr) {
-    return Math.max(...arr); // Spread operator expands the array elements
+    return Math.(...arr); // Spread operator expands the array elements
   }
   
   // Example
