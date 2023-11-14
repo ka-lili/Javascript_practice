@@ -7,7 +7,7 @@ function getAverage(arr){
     }
     console.log("total= ", total);
     avg = total/arr.length;
-    console.log(" average = ", avg)
+    console.log("average = ", avg)
 }
 //example
 let s = [9,1,2,4,5];
