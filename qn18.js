@@ -14,7 +14,7 @@ function calculateBMI(weight, height) {
     if (bmi < 18.6) {
         return "Underweight";
     } else if (bmi >= 18.6 && bmi < 24.9) {
-        return "Normal";
+        return "Normal and healthy";
     } else {
         return "Overweight";
     }
