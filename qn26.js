@@ -1,3 +1,3 @@
-// Write a function that calculates the factorial of a number.
+Write a function that calculates the factorial of a number.
 
 

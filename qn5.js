@@ -1,4 +1,4 @@
-// Create a function that recieves an array and return the sum of all the elements inside that array
+Create a function that recieves an array and return the sum of all the elements inside that array
 function sumArrayElements(arr) {
   let sum = 0;
 

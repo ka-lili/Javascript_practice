@@ -4,11 +4,10 @@
 // This function will receive 3 arguments the first argument will be a string, 
 // the second will be the position of a specific.
 
-function stringModifier(string, position, character) {
-    if (position < 0 || position >= string.length) {
-        return "Invalid position";
-    }
-    return string.substring(0, position) + character + string.substring(position + 1);
+function stringModifier(string,position,character){
+    var array = string.split('');
+    array[position] = character;
+    return array.join('')
+    
 }
-// example
-console.log(stringModifier("hi you are good", 0, "H"));
+console.log(stringModifier('Gappy',0,'H'))

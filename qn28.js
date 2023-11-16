@@ -21,6 +21,6 @@ function checkPalindrome(string) {
 }
 
 //example
-const string = 'amatama'
+const string = 'a man a plan a canal panama';
 
 checkPalindrome(string);

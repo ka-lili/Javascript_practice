@@ -1,4 +1,4 @@
-// Create a function that recieves an array of numbers and return the average of the numbers
+Create a function that recieves an array of numbers and return the average of the numbers
 
 function getAverage(arr){
     let total= 0;
