@@ -5,5 +5,6 @@ function findMinValue(arr) {
   
   // Example
   const myArray = [3,4,7,56,0];
+  
   const result = findMinValue(myArray);
   console.log(result);
