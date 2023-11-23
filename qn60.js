@@ -1,6 +1,6 @@
 // Write a function that calculates the perimeter of a rectangle.
 function perimeterOfRectangle(width,height){
-    const perimeter = width + height;
+    const perimeter = 2(width + height);
     return perimeter;
 }
 const width = 3;
